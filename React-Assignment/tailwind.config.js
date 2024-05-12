@@ -6,9 +6,9 @@ export default {
   ],
   theme: {
     fontFamily: {
-      inter: ["Inter", "sans-serif"],
       mont: ['Montserrat', "sans-serif"],
       lato: ['Lato', "sans-serif"],
+      inter: ["Inter", "sans-serif"],
     },
     extend: {
       maxWidth: {
